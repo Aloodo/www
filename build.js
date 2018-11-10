@@ -31,7 +31,7 @@ metalsmith(__dirname)
 	}))
 	.use(permalinks({
 		relative: false,
-		pattern: ':title/',
+		pattern: ':permalink/',
 	}))
 	.use(layouts({
 		engine: 'handlebars',
