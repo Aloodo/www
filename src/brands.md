@@ -1,21 +1,24 @@
 ---
 title: "The Protected Audience: opportunities for brands"
-date: 2018-11-10
+date: 2018-11-13
 layout: document.html
 permalink: brands
 ---
 
-While web advertising offers easily trackable solutions for sales activation,
-it has so far been unsuitable for the brand-building side, which, according to 
+While web advertising offers easily trackable
+solutions for sales activation, it has so far
+been unsuitable for the brand-building side
+of advertising.  This represents a problem for
+sustainable web advertising growth, because [brand
+building should represent 60% of advertising
+spend](https://www.warc.com/NewsAndOpinion/Opinion/1727).
 
-FIXME: E-B link
-
-should represent a majority of ad spend.
-
-This is because, for most users, the web functions
-as a targetable, direct response medium, like direct
-mail, and cannot carry the economic signal carried
-by an obviously costly ad buy.
+Web advertising is still stuck in the 40% side,
+contending with mobile for the eyeballs of already
+in-market customers.  The web functions as a
+targetable, direct response medium, like direct mail,
+and cannot carry the economic signal carried by an
+obviously costly ad buy.
 
 In addition, the data leakage that comes with web
 tracking practices are responsible for short-term
@@ -24,32 +27,53 @@ attribution fraud, and a high "adtech tax" that
 limits the amount of an ad buy that actually reaches
 working media.
 
+## How can web advertising become a brand-building medium (and get some of branding's 60%)?
+
 Some large agencies and major brands are already
 calling for systemic reform.  An industry-wide
-solution might be a promising topic for
-meetings, but for a subset of brands, web
-advertising is not a problem where "the industry"
-needs to "work together".  Mark Glaser, on the
-DCN site, [does an excellent job of identifying the
-problems](https://digitalcontentnext.org/blog/2017/02/23/need-solve-digital-advertisings-quality-control-problem-now/).
-But he writes,
+solution might be a promising topic for meetings,
+but for a subset of brands, web advertising is not a
+problem where "the industry" needs to "work together".
+Mark Glaser, on the DCN site, [identifies the
+problems](https://digitalcontentnext.org/blog/2017/02/23/need-solve-digital-advertisings-quality-control-problem-now/),
+and writes:
 
 > If the demand for money and efficiency is eroding the integrity of content—not to mention that of brands and platforms—everyone involved must collaborate to gain that trust back.
 
-In the IT business, this kind of call for coordinated
-action is what executives from legacy
-companies say while they're getting ready for an
-expensive conference with a golf tournament. And they
-say it right about the time that an independent programmer
-in a basement somewhere is writing the code to eat
-their lunch.  When a whole industry is wrong about
-something, that doesn't mean you have a big boring
-assignment to persuade everyone in the industry. It means you have
-an opportunity to make mad cash by being right.
+We disagree. It's not a collective action problem.
+It's a first mover opportunity. In the IT business,
+this kind of call for coordinated action is what
+executives from legacy companies say while they're
+getting ready for an expensive conference with a golf
+tournament. And they say it right about the time that
+an independent programmer in a basement somewhere is
+writing the code to eat their lunch.  **When a whole
+industry is wrong about something, that doesn't mean
+you have a big boring assignment to persuade everyone
+in the industry of something. It means you have an
+opportunity to make mad cash by being right.**
 
-Protected audience web advertising can have several
-technical qualities to increase effectiveness, in
-addition to limited third-party tracking:
+
+## Which brands are in the best position to win?
+
+Some brands already appeal to Internet privacy
+early adopters who are hard to reach by conventional
+web ads.  Conventional marketing tech is giving those
+brands bad numbers when enough of the customer base is
+"invisible".  Tracking protection strategy is already
+essential for these brands, just to keep from getting
+wrong answers.  After all, you don't do a big new
+product launch based on what bots want.
+
+But the protected audience can also be a bigger
+opportunity.  For people who believe themselves
+to be well-protected from tracking and targeting,
+our hypothesis is that web ads work more like the
+signal-carrying ads in print, an ad medium that can
+hold its value over time.  Protected audience web
+advertising can have several technical qualities
+to increase effectiveness, in addition to limited
+third-party tracking:
 
  * Lower script performance impact, allowing for...
  
@@ -65,8 +89,9 @@ adopter of protected audience web advertising.
 
 ## Does the brand have brand equity or a commitment to building it?
 
-The brand should be committed to
-building positive reputation and brand equity.
+The brand should be committed
+to building positive reputation and [brand
+equity](https://mumbrella.com.au/stop-focussing-on-short-term-creative-and-start-building-your-brand-472847).
 Low-reputation and high-reputation brands [need
 fundamentally different qualities from an advertising
 medium](http://blog.aloodo.org/posts/tv-shopping-with-rory-sutherland/).
@@ -93,7 +118,7 @@ A low-quality or deceptive brand is better off with
 today's conventional, targeted web advertising.
 
 However, the more that a user gets protected from
-tracking and targeting, the more signalful the
+tracking and targeting, the more trustworthy the
 web becomes as an ad medium from that user's point
 of view.
 
@@ -117,7 +142,7 @@ case, it makes a strong argument for incentivizing
 customer protection.
 
 
-## Does the brand depend on impressions formed over long-term use?
+## Does the brand depend on reputation formed over long-term use?
 
 Look for goods that are difficult to evaluate at point
 of purchase and where an experience with a deceptive
@@ -139,18 +164,6 @@ reliably opening your email, or participating in
 some other medium such as a customer web board,
 you've got great data and nothing to lose by helping
 to deny their info to the competition.  Play defense.
-
-
-## Does the brand already have a tracking-protected customer base?
-
-Some product categories already appeal to Internet
-"privacy nerds" who are hard to reach by conventional
-web ads.  Worse, conventional marketing tech is giving
-you really bad numbers when enough of the customer
-base is "invisible".  Tracking protection strategy
-is essential here, just to keep from getting wrong
-answers.  Don't do a big new product launch based on
-what bots want.
 
 
 ## Next steps

@@ -14,6 +14,10 @@ menu, nav, output, section, summary {
 	font-family: sans-serif;
 }
 
+blockquote {
+	margin: 0ex 4ex 0ex 4ex;
+}
+
 body {
         background-color: #f0f4f0;
 }
