@@ -14,11 +14,9 @@ favorite sites.
 
 (Your ad blocker may not provide tracking
 protection.  Some blockers have [deceptive
-settings](http://blog.aloodo.org/posts/adblock-plus-dark-pattern/)
-to trick users into participating in a <q>paid
-whitelisting</q> scheme.  This test will help you
-check if you are protected, and if not, to add the
-protection you need.)
+settings](http://blog.aloodo.org/posts/adblock-plus-dark-pattern/).
+This test will help you check if you are protected,
+and if not, to add the protection you need.)
 
 Click <q>Run test</q> below to start the test.
 
